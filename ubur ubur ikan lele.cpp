@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-	printf("Ubur Ubur Ikan Lele");
+	printf("Selamat makan lek");
 	return 0;
 }
